@@ -20,8 +20,8 @@ Create a simple class in your preferred language that reads all the properties f
 
 ## ⚙️ Setup
  ### requirements - Nodejs installed
- - Once installed Nodejs on the computer you must follow the steps below:
+ - Once installed Nodejs in the computer you must follow the steps below:
  - Open the project in your favorite editor
  - run `npm i`
- - then to execute the program run npm start
- - finally to test the program run npm run test
+ - then to execute the program run `npm start`
+ - finally to test the program run `npm run test`
