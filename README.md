@@ -19,7 +19,7 @@ Create a simple class in your preferred language that reads all the properties f
 - [Jest](https://jestjs.io/docs/getting-started)
 
 ## ⚙️ Setup
- ### requirements - Nodejs installed
+ ### Requirements - Nodejs installed
  - Once installed Nodejs in the computer you must follow the steps below:
  - Open the project in your favorite editor
  - run `npm i`
